@@ -40,7 +40,7 @@ img {
 .categoria-videos {
     display: flex;
     overflow-x: auto;
-    gap: 10px;
+    gap: 20px;
 }
 .categoria {
     padding-left: 20px;
